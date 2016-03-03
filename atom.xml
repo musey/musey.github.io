@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cosey&#39;s blog</title>
-  <subtitle>Only want to skrik in a whisper</subtitle>
+  <subtitle>Only a blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-03-02T16:28:57.602Z</updated>
+  <updated>2016-03-01T05:10:57.303Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,22 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2016/03/03/test/"/>
-    <id>http://yoursite.com/2016/03/03/test/</id>
-    <published>2016-03-02T16:28:57.000Z</published>
-    <updated>2016-03-02T16:28:57.602Z</updated>
-    
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
